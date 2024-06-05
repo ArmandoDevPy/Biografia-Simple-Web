@@ -1,0 +1,13 @@
+.justificar{
+  text-align: justify;
+}
+
+@font-face{
+  font-family: miFuente;
+  src: url(../font/huntera.ttf);
+}
+
+.titulo{
+  font-family: miFuente;
+  font-size: 45px;
+}
